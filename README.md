@@ -5,7 +5,8 @@ Module 3 Challenge
 python-challenge
 ## Description
 Two Challenges!
-First challenge is to read the included budget_data.csv file within the Resouces Folder for PyBank.
+
+The first challenge is to read the included budget_data.csv file within the Resouces Folder for PyBank.
 Correctly read the header of the file and the rows of data to calculate the following and print to the terminal window and a text file:
 
 The total number of months included in the dataset
