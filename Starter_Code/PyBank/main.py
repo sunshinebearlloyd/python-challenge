@@ -68,7 +68,7 @@ with open(csvpath) as csvfile:
     print(f'Greatest Increase in Profits:  {greatest_decrease_date}  (${greatest_decrease})\n')
     
 #Specify the file to write to
-output_file = os.path.join("analysis", "test.txt")
+output_file = os.path.join("analysis", "results.txt")
 
 # Open the file using "write" mode.
 with open(output_file, "w") as f:
