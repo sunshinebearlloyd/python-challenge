@@ -38,9 +38,21 @@ The winner of the election based on popular vote
 ## Badges
 
 ## Visuals
+I included screenshots of the results in the same area of the repository as this README.md file. Yous should have these four png files:
+
+1. PyBank_Results.png which is a screenshot of the results.txt file in the analysis folder for PyBank after running main.py for PyBank.
+
+2. PyBank_Terminal_Output.png which is a screenshot of the terminal window after running main.py for PyBank. 
+
+3. PyPoll_Results.png which is a screenshot of the results.txt file in the analysis folder for PyPoll after running main.py for PyPoll.
+
+4. PyPoll_Terminal_Output.png which is a screenshot of the terminal window after running main.py for PyPoll.
 
 ## Usage
+I have deleted all data in the results files so they should be clean and ready to run.
+
 Run the main.py in PyBank and the results will print to the terminal and in the results.txt file within the analysis folder in PyBank. 
+
 Run the main.py in PyPoll and the results will print to the terminal and in the results.txt file within the analysis folder in PyPoll. 
 
 ## Support
