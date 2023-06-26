@@ -5,7 +5,7 @@ Module 3 Challenge
 python-challenge
 ## Description
 Two Challenges!
-
+__________________________________________________________________________________
 The first challenge is to read the included budget_data.csv file within the Resouces Folder for PyBank.
 Correctly read the header of the file and the rows of data to calculate the following and print to the terminal window and a text file:
 
@@ -18,6 +18,8 @@ The changes in "Profit/Losses" over the entire period, and then the average of t
 The greatest increase in profits (date and amount) over the entire period
 
 The greatest decrease in profits (date and amount) over the entire period
+
+_________________________________________________________________________________________
 
 
 The second challenge is to read the included election_results.csv file within the Resources Fold for PyPoll.
